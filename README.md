@@ -6,7 +6,7 @@
 
 - 🧑‍💻 **Full-stack developer**
 
-- :fire: **Javascript**
+- :fire: **Javascript,Typescript**
 
 - 🏁 **Consulting**: Website and Mobile App Development ⛓️
 
